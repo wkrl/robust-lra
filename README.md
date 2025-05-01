@@ -1,5 +1,7 @@
 # Robust-LRA
 
+[![DOI](https://zenodo.org/badge/975659976.svg)](https://doi.org/10.5281/zenodo.15313712)
+
 This repository contains a NumPy implementation of the RobustLRA algorithm proposed in the paper:
 
 > Arora, Raman, and Jalaj Upadhyay. "Differentially private robust low-rank approximation." Advances in neural information processing systems 31 (2018).
